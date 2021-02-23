@@ -1,6 +1,8 @@
 
 # Working with Dictionaries - Lab
 
+![My screenshot](screenshot.png)
+
 ## Introduction
 Now that we know about dictionaries in Python, it is time to practice using them. In this lesson, you'll use your knowledge of dictionaries to retrieve and assign data about various cities.
 
